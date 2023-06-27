@@ -1,0 +1,15 @@
+C:\Users\mtuna\Documents\GitHub\Kodluyoruz__Variables\bin\Debug\net7.0\Kodluyoruz__Variables.exe
+C:\Users\mtuna\Documents\GitHub\Kodluyoruz__Variables\bin\Debug\net7.0\Kodluyoruz__Variables.deps.json
+C:\Users\mtuna\Documents\GitHub\Kodluyoruz__Variables\bin\Debug\net7.0\Kodluyoruz__Variables.runtimeconfig.json
+C:\Users\mtuna\Documents\GitHub\Kodluyoruz__Variables\bin\Debug\net7.0\Kodluyoruz__Variables.dll
+C:\Users\mtuna\Documents\GitHub\Kodluyoruz__Variables\bin\Debug\net7.0\Kodluyoruz__Variables.pdb
+C:\Users\mtuna\Documents\GitHub\Kodluyoruz__Variables\obj\Debug\net7.0\Kodluyoruz__Variables.csproj.AssemblyReference.cache
+C:\Users\mtuna\Documents\GitHub\Kodluyoruz__Variables\obj\Debug\net7.0\Kodluyoruz__Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtuna\Documents\GitHub\Kodluyoruz__Variables\obj\Debug\net7.0\Kodluyoruz__Variables.AssemblyInfoInputs.cache
+C:\Users\mtuna\Documents\GitHub\Kodluyoruz__Variables\obj\Debug\net7.0\Kodluyoruz__Variables.AssemblyInfo.cs
+C:\Users\mtuna\Documents\GitHub\Kodluyoruz__Variables\obj\Debug\net7.0\Kodluyoruz__Variables.csproj.CoreCompileInputs.cache
+C:\Users\mtuna\Documents\GitHub\Kodluyoruz__Variables\obj\Debug\net7.0\Kodluyoruz__Variables.dll
+C:\Users\mtuna\Documents\GitHub\Kodluyoruz__Variables\obj\Debug\net7.0\refint\Kodluyoruz__Variables.dll
+C:\Users\mtuna\Documents\GitHub\Kodluyoruz__Variables\obj\Debug\net7.0\Kodluyoruz__Variables.pdb
+C:\Users\mtuna\Documents\GitHub\Kodluyoruz__Variables\obj\Debug\net7.0\Kodluyoruz__Variables.genruntimeconfig.cache
+C:\Users\mtuna\Documents\GitHub\Kodluyoruz__Variables\obj\Debug\net7.0\ref\Kodluyoruz__Variables.dll
